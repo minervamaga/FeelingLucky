@@ -1,7 +1,7 @@
 {
   "Name": "Lucky Shoes",
   "Author": "minervamaga",
-  "Version": "1.0.0-alpha.21",
+  "Version": "1.0.0-alpha.22-rc",
   "Description": "Gives a luck buff to the Leprechaun Boots.",
   "UniqueID": "minervamaga.LuckyShoes",
   "EntryDll": "LuckyShoes.dll",

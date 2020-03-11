@@ -41,7 +41,7 @@ namespace LuckyShoes
             if (GMCMApi != null)
             {
                 GMCMApi.RegisterModConfig(ModManifest, () => Config = new ModConfig(), () => Helper.WriteConfig(Config));
-                GMCMApi.RegisterSimpleOption(ModManifest, "Verbose Logging", "Enable verbose logging for troubleshooting", () => ModConfig.VerboseLogging, (bool val) => ModConfig.VerboseLogging = val);
+                GMCMApi.RegisterSimpleOption(ModManifest, "Verbose Logging", "Enable verbose logging for troubleshooting", () => Config.VerboseLogging, (bool val) => Config.VerboseLogging = val);
 
             }
         }

@@ -1,0 +1,7 @@
+D:\GitHubSource\LuckyShoes\LuckyShoes\ClassLibrary1\bin\x86\Debug\net452\LuckyShoes.dll
+D:\GitHubSource\LuckyShoes\LuckyShoes\ClassLibrary1\bin\x86\Debug\net452\LuckyShoes.pdb
+D:\GitHubSource\LuckyShoes\LuckyShoes\ClassLibrary1\obj\x86\Debug\net452\LuckyShoes.csprojAssemblyReference.cache
+D:\GitHubSource\LuckyShoes\LuckyShoes\ClassLibrary1\obj\x86\Debug\net452\LuckyShoes.AssemblyInfoInputs.cache
+D:\GitHubSource\LuckyShoes\LuckyShoes\ClassLibrary1\obj\x86\Debug\net452\LuckyShoes.AssemblyInfo.cs
+D:\GitHubSource\LuckyShoes\LuckyShoes\ClassLibrary1\obj\x86\Debug\net452\LuckyShoes.dll
+D:\GitHubSource\LuckyShoes\LuckyShoes\ClassLibrary1\obj\x86\Debug\net452\LuckyShoes.pdb
