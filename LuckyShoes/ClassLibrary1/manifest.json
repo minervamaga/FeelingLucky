@@ -1,0 +1,10 @@
+{
+  "Name": "Lucky Shoes",
+  "Author": "minervamaga",
+  "Version": "1.0.0-alpha.21",
+  "Description": "Gives a luck buff to the Leprechaun Boots.",
+  "UniqueID": "minervamaga.LuckyShoes",
+  "EntryDll": "LuckyShoes.dll",
+  "MinimumApiVersion": "3.0",
+  "UpdateKeys": [ "" ]
+}
