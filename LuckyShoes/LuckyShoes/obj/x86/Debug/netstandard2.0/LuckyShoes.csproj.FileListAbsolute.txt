@@ -1,8 +1,0 @@
-D:\GitHubSource\LuckyShoes\LuckyShoes\ClassLibrary1\bin\x86\Debug\netstandard2.0\LuckyShoes.deps.json
-D:\GitHubSource\LuckyShoes\LuckyShoes\ClassLibrary1\bin\x86\Debug\netstandard2.0\LuckyShoes.dll
-D:\GitHubSource\LuckyShoes\LuckyShoes\ClassLibrary1\bin\x86\Debug\netstandard2.0\LuckyShoes.pdb
-D:\GitHubSource\LuckyShoes\LuckyShoes\ClassLibrary1\obj\x86\Debug\netstandard2.0\LuckyShoes.csprojAssemblyReference.cache
-D:\GitHubSource\LuckyShoes\LuckyShoes\ClassLibrary1\obj\x86\Debug\netstandard2.0\LuckyShoes.AssemblyInfoInputs.cache
-D:\GitHubSource\LuckyShoes\LuckyShoes\ClassLibrary1\obj\x86\Debug\netstandard2.0\LuckyShoes.AssemblyInfo.cs
-D:\GitHubSource\LuckyShoes\LuckyShoes\ClassLibrary1\obj\x86\Debug\netstandard2.0\LuckyShoes.dll
-D:\GitHubSource\LuckyShoes\LuckyShoes\ClassLibrary1\obj\x86\Debug\netstandard2.0\LuckyShoes.pdb
